@@ -9,7 +9,7 @@ emoji: 🌠
 video_length: 2:53
 ---
 
-{{< file "react" "App.tsx" >}}
+{{< file "react" "NavMenu.tsx" >}}
 ```tsx
 import Link from 'next/link';
 import styles from './NavMenu.module.css';
